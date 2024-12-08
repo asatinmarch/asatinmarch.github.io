@@ -5,6 +5,7 @@ title: Welcome to my blog
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }} {{ page.date }}</a>
+      <p>{{ content }}</p>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
