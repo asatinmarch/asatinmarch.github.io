@@ -5,6 +5,3 @@ plugins:
 title: [This is asatinmarch]
 author: [asatinmarch]
 description: [Record the learning process]
-
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
