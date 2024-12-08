@@ -5,3 +5,6 @@ plugins:
 title: [This is asatinmarch]
 author: [asatinmarch]
 description: [Record the learning process]
+
+baseurl: /_post
+url: https://asatinmarch.github.io/
