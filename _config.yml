@@ -6,4 +6,5 @@ title: [This is asatinmarch]
 author: [asatinmarch]
 description: [Record the learning process]
 
-baseurl: /_post
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
