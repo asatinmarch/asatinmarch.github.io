@@ -8,5 +8,4 @@ title: Welcome to my blog
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
-  <li> site.posts</li>
 </ul>
